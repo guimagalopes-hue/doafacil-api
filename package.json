@@ -12,3 +12,4 @@
   "start": "node server.js",
   "build": "echo \"no build step for API\""
 }
+"engines": { "node": ">=18" }
