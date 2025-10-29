@@ -8,3 +8,7 @@
     "express": "^4.18.2"
   }
 }
+"scripts": {
+  "start": "node server.js",
+  "build": "echo \"no build step for API\""
+}
